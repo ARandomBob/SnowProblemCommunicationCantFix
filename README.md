@@ -88,7 +88,6 @@ Templates drive every generated email and the copy buttons. Edit them in the ema
 | `{teamstale}` | Same, per team, with a nudge to update |
 | `{knownerrors}` | "Known Errors with workarounds:" list |
 
-Lines starting with `•` render as bullets. Bullets whose tokens expand to nothing are removed.
 
 ---
 
@@ -115,4 +114,4 @@ Issues and PRs welcome. It's one file — open it, edit it, refresh.
 
 ## License
 
-MIT (or your preferred license — update this section before publishing).
+MIT
